@@ -12,7 +12,7 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F1%2F1984.png?alt=media&token=173ef66e-be35-4767-bff1-fa960d00c643",
       "price": 689500,
       "saleOff": 0,
-      "stars": 70,
+      "stars": 69,
       "votes": 17,
       "booksBody": {
         "stars": 71,
@@ -436,8 +436,8 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F29%2Fwuthering-heights.jpg?alt=media&token=9a4ab1da-257f-4512-a889-8fbd9f0748b5",
       "price": 295700,
       "saleOff": 0.13,
-      "stars": 210,
-      "votes": 52
+      "stars": 215,
+      "votes": 53
     },
     {
       "id": 30,
@@ -1817,7 +1817,7 @@
       "list": [
         {
           "uid": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
-          "star": 4
+          "star": 3
         }
       ]
     },
@@ -1961,7 +1961,12 @@
     },
     {
       "id": 29,
-      "list": []
+      "list": [
+        {
+          "uid": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
+          "star": 5
+        }
+      ]
     },
     {
       "id": 30,
@@ -2258,20 +2263,20 @@
       "id": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
       "books": [
         {
-          "bookID": 29,
-          "quantity": 6
-        },
-        {
-          "bookID": 1,
-          "quantity": 5
-        },
-        {
           "bookID": 83,
           "quantity": 1
         },
         {
           "bookID": 9,
           "quantity": 3
+        },
+        {
+          "bookID": 29,
+          "quantity": 2
+        },
+        {
+          "bookID": 1,
+          "quantity": 2
         }
       ]
     }
@@ -2282,7 +2287,7 @@
       "firstName": "Đỗ",
       "lastName": "Viên",
       "telephone": "0919904032",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/avatars%2FaD3brbzPq5gJ3SbswksiR5ZCUwy1%2Favatar.png?alt=media&token=f00b8172-0439-47f3-824e-ab42904142cc",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/avatars%2FaD3brbzPq5gJ3SbswksiR5ZCUwy1%2Favatar.png?alt=media&token=f8bfd152-280b-4016-ac94-0912b2fc34c5",
       "email": "doducvien26092002@gmail.com",
       "birthday": "2002-09-26"
     },
